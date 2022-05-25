@@ -1,0 +1,36 @@
+ "data": [{
+"Owner": "Shristi",
+"Room": "2BHK",
+"Address": "manila chowk",
+"Monthly-Rent":"10K",
+"Size":"800ft",
+"Security deposit":"2k"
+ },
+
+{
+"Owner": "Shristi",
+"Room": "1BHK",
+"Address": "manila chowk",
+"Monthly-Rent":"10K",
+"Size":"100ft",
+"Security deposit":"2k"
+},
+
+{
+    "Owner": "Shristi",
+    "Room": "2BHK",
+    "Address": "manila chowk",
+    "Monthly-Rent":"10K",
+    "Size":"500ft",
+    "Security deposit":"2k"
+    },
+    
+{
+    "Owner": "Shristi",
+    "Room": "2BHK",
+    "Address": "manila chowk",
+    "Monthly-Rent":"10K",
+    "Size":"400ft",
+    "Security deposit":"1k"
+}
+]

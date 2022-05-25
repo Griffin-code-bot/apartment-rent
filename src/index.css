@@ -1,0 +1,22 @@
+.login,.history{
+  text-align: right;
+}
+
+.rightportion {
+  text-align: right;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex: space-apart;
+  border: 1px solid black;
+}
+
+.additional {
+  display: flex;
+}
+
+.location{
+  border: 1px solid black;
+}
